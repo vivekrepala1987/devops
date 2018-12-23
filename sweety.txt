@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 learn 
+=======
+learn devops
+>>>>>>> d69476a89f7a125353c29a63ea1755ae98c3846f
